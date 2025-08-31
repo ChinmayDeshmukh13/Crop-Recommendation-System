@@ -32,16 +32,13 @@ A **machine learning powered web application** that recommends the most suitable
 
 ## 📂 Project Structure
 Crop_Recommendation/
-│── app.py # Flask backend
-│── crop_model.pkl # Saved ML model
-│── crop_data.csv # Dataset
-│── train_model.py # Model training script
-│
-├── templates/
-│ └── index.html # Frontend UI
-│
-├── static/
-│ ├── style.css # Custom styling
-│ └── script.js # Frontend logic
-│
-└── README.md
+-│── app.py # Flask backend
+-│── crop_model.pkl # Saved ML model
+-│── crop_data.csv # Dataset
+-│── train_model.py # Model training script
+-├── templates/
+-│ └── index.html # Frontend UI
+-├── static/
+-│ ├── style.css # Custom styling
+-│ └── script.js # Frontend logic
+-└── README.md
