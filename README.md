@@ -40,7 +40,7 @@ Crop-Recommendation-System/
 │── train_model.py       # Model training script
 │── Procfile             # Deployment instruction
 │── requirements.txt     # Dependencies
-│
+│── screenshot.png       # Webpage Sereenshot
 ├── templates/
 │   └── index.html       # Frontend UI
 │
@@ -139,3 +139,4 @@ Now visit 👉 `http://127.0.0.1:5000/`
 ## 👨‍💻 Author
 **Chinmay Deshmukh**  
 📌 [GitHub](https://github.com/ChinmayDeshmukh13) | [LinkedIn](https://www.linkedin.com)
+
