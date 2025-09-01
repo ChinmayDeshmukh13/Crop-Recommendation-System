@@ -124,7 +124,7 @@ Now visit 👉 `http://127.0.0.1:5000/`
 ## 📸 Screenshots
 
 ### Homepage
-![UI Screenshot](screenshot.png)
+![UI Screenshot](/screenshot.png)
 
 ---
 
@@ -139,4 +139,5 @@ Now visit 👉 `http://127.0.0.1:5000/`
 ## 👨‍💻 Author
 **Chinmay Deshmukh**  
 📌 [GitHub](https://github.com/ChinmayDeshmukh13) | [LinkedIn](https://www.linkedin.com)
+
 
